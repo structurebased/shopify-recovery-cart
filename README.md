@@ -4,7 +4,8 @@ Automated email system that recovers abandoned carts using AI-generated personal
 
 ## Demo Email
 
-https://github.com/structurebased/shopify-recovery-cart/blob/main/revoery%20cart.png
+<img width="1446" height="634" alt="image" src="https://github.com/user-attachments/assets/45297d80-41d6-4ff2-927a-1bbd44a5afd6" />
+
 
 ## What it does
 - Detects abandoned carts via Shopify webhook
